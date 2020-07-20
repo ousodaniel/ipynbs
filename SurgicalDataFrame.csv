@@ -1,0 +1,237 @@
+,name,ids,longName,description
+0,q10691153,Q10691153,Q10691153,No description defined
+1,q1256910,Q1256910,Q1256910,No description defined
+2,q135772,Q135772,Q135772,No description defined
+3,q14906481,Q14906481,Q14906481,No description defined
+4,q18638412,Q18638412,Q18638412,No description defined
+5,q18915277,Q18915277,Q18915277,No description defined
+6,q22965531,Q22965531,Q22965531,No description defined
+7,q2524283,Q2524283,Q2524283,No description defined
+8,q25381010,Q25381010,Q25381010,No description defined
+9,q30753413,Q30753413,Q30753413,No description defined
+10,q31175788,Q31175788,Q31175788,No description defined
+11,q4252985,Q4252985,Q4252985,No description defined
+12,q4335329,Q4335329,Q4335329,No description defined
+13,q4460941,Q4460941,Q4460941,No description defined
+14,q46457372,Q46457372,Q46457372,No description defined
+15,q68921987,Q68921987,Q68921987,No description defined
+16,aboincompatibletransplantation,Q17154003,Abo-Incompatible Transplantation,No description defined
+17,amygdalohippocampectomy,Q4749522,Amygdalohippocampectomy,No description defined
+18,aorticvalvuloplasty,Q4778764,Aortic Valvuloplasty,Widening of a stenotic aortic valve using a balloon catheter inside the valve
+19,arthrodesis,Q708143,Arthrodesis,No description defined
+20,autologousstemcelltransplantation,Q4826373,Autologous Stem Cell Transplantation,"Medical procedure in which stem cells are removed, stored, and then returned to the same person"
+21,axillarydissection,Q65118464,Axillary Dissection,Surgical procedure that incises the axilla
+22,braintransplant,Q4462026,Brain Transplant,No description defined
+23,breastsurgery,Q4959802,Breast Surgery,Surgery on the chest
+24,caesareandeliveryonmaternalrequest,Q14371816,Caesarean Delivery On Maternal Request,Medically unnecessary caesarean section
+25,capsulotomy,Q1728753,Capsulotomy,No description defined
+26,cheiloplasty,Q1068993,Cheiloplasty,No description defined
+27,conversetechnique,Q22965536,Converse Technique,No description defined
+28,diepflap,Q2431964,Diep Flap,No description defined
+29,davincisurgicalsystem,Q2323044,Da Vinci Surgical System,Robotic surgical system
+30,dermabrasion,Q1200226,Dermabrasion,An exfoliating technique
+31,distalsplenorenalshuntprocedure,Q5282844,Distal Splenorenal Shunt Procedure,No description defined
+32,duodenalswitch,Q10269071,Duodenal Switch,No description defined
+33,exitprocedure,Q3717540,Exit Procedure,Surgical delivery procedure for babies with airway compression
+34,earfold,Q54247207,Earfold,Surgical procedure
+35,electivesurgery,Q5354947,Elective Surgery,A surgery that is planned in advance
+36,endarterectomy,Q81476,Endarterectomy,No description defined
+37,endoscopicendonasalsurgery,Q17163425,Endoscopic Endonasal Surgery,No description defined
+38,exploratorylaparotomy,Q5421351,Exploratory Laparotomy,No description defined
+39,facetransplant,Q1519214,Face Transplant,Medical procedure to replace a person's face using donor tissue
+40,fetalsurgery,Q1480305,Fetal Surgery,No description defined
+41,freeflap,Q5871352,Free Flap,Specific kind of surgical flap
+42,freeflapbreastreconstruction,Q5500228,Free Flap Breast Reconstruction,No description defined
+43,frenulectomyofthepenis,Q5502819,Frenulectomy Of The Penis,No description defined
+44,genitoplasty,Q25091577,Genitoplasty,Plastic surgery on the genitals and surrounding tissue and organs
+45,greenlightlasertherapy,Q5602214,Greenlight Laser Therapy,Therapeutic procedure
+46,heartlungtransplant,Q3247762,Heart-Lung Transplant,No description defined
+47,hemispherectomy,Q166026,Hemispherectomy,Neurosurgical procedure wherein a cerebral hemisphere (half of the brain) is removed.
+48,herniarepair,Q2531594,Hernia Repair,Surgical procedures to fix abnormal openings through which tissue or organs may protrude
+49,incisionlessfritschotoplasty,Q25112317,Incisionless Fritsch Otoplasty,No description defined
+50,incisionlessotoplasty,Q25380954,Incisionless Otoplasty,No description defined
+51,intestinetransplantation,Q25326552,Intestine Transplantation,No description defined
+52,intraoperativebloodsalvage,Q1074529,Intraoperative Blood Salvage,No description defined
+53,intuitivesurgical,Q2743863,Intuitive Surgical,American corporation
+54,krukenbergprocedure,Q1790123,Krukenberg Procedure,No description defined
+55,lasik,Q278846,Lasik,Corrective opthalmological surgery
+56,lobotomia,Q6663832,Lobotomia,No description defined
+57,lowersegmentcaesareansection,Q6693960,Lower Segment Caesarean Section,No description defined
+58,lowersegmentcaesareansection,Q6693960,Lower Segment Caesarean Section,No description defined
+59,lumbarperitonealshunt,Q6703055,Lumbar-Peritoneal Shunt,No description defined
+60,meatotomy,Q1965571,Meatotomy,No description defined
+61,merckstitchmethod,Q25339885,Merck Stitch Method,No description defined
+62,microdermabrasion,Q1933845,Microdermabrasion,Cosmetic procedure
+63,mitralvalveannuloplasty,Q6882365,Mitral Valve Annuloplasty,No description defined
+64,mohssurgery,Q1968950,Mohs Surgery,Microscopically controlled surgery used to treat common types of skin cancer
+65,mustardétechnique,Q22965537,Mustardé Technique,No description defined
+66,naturalorificetranslumenalendoscopicsurgery,Q1961340,Natural Orifice Translumenal Endoscopic Surgery,No description defined
+67,otoplasty,Q2659509,Otoplasty,No description defined
+68,parotidectomy,Q2561732,Parotidectomy,No description defined
+69,perforatorflaps,Q7168177,Perforator Flaps,No description defined
+70,phacoemulsification,Q558352,Phacoemulsification,No description defined
+71,predescemetsendothelialkeratoplasty,Q25326854,Pre-Descemet'S Endothelial Keratoplasty,No description defined
+72,pulmonaryarterybanding,Q7259518,Pulmonary Artery Banding,No description defined
+73,pyeloplasty,Q7262963,Pyeloplasty,No description defined
+74,retropubicparavaginalrepair,Q25091564,Retropubic Paravaginal Repair,A medical procedure and surgery to reattach tissue to stabilize the vagina
+75,rotationflap,Q7370304,Rotation Flap,No description defined
+76,sadis,Q15952856,Sadi-S,No description defined
+77,scopinaroprocedure,Q18467889,Scopinaro Procedure,No description defined
+78,sleevegastrectomy,Q550141,Sleeve Gastrectomy,Removal of a part of the stomach
+79,sleevegastrectomy,Q550141,Sleeve Gastrectomy,Removal of a part of the stomach
+80,spleentransplantation,Q7578443,Spleen Transplantation,No description defined
+81,stenströmtechnique,Q22965538,Stenström Technique,No description defined
+82,sugiuraprocedure,Q18386129,Sugiura Procedure,No description defined
+83,surgicalmanagementoffecalincontinence,Q7646214,Surgical Management Of Fecal Incontinence,No description defined
+84,sympathectomy,Q6128790,Sympathectomy,Procedure during which at least one sympathetic ganglion is removed.
+85,thoracoplasty,Q16679980,Thoracoplasty,No description defined
+86,thymustransplantation,Q7799653,Thymus Transplantation,Form of organ transplantation
+87,tracheooesophagealpuncture,Q7831312,Tracheo-Oesophageal Puncture,No description defined
+88,transanalendoscopicsurgery,Q73466538,Transanal Endoscopic Surgery,No description defined
+89,transvaginalcholecystectomy,Q82553276,Transvaginal Cholecystectomy,No description defined
+90,triplearthrodesis,Q7843496,Triple Arthrodesis,No description defined
+91,uvulotomy,Q3552799,Uvulotomy,No description defined
+92,vaginaltransplantation,Q17014816,Vaginal Transplantation,No description defined
+93,vaginectomy,Q2984475,Vaginectomy,No description defined
+94,ventricularreduction,Q7920321,Ventricular Reduction,No description defined
+95,verticalbandedgastroplastysurgery,Q7922817,Vertical Banded Gastroplasty Surgery,Medical procedure
+96,wertheimmeigsoperation,Q2563466,Wertheim-Meigs Operation,No description defined
+97,xenotransfusion,Q17149269,Xenotransfusion,No description defined
+98,youngsoperation,Q8057818,Young'S Operation,No description defined
+99,zeusroboticsurgicalsystem,Q8063037,Zeus Robotic Surgical System,No description defined
+100,zeusroboticsurgicalsystem,Q8063037,Zeus Robotic Surgical System,No description defined
+101,adhesiolysis,Q356663,Adhesiolysis,A type of medical surgery
+102,adrenalectomy,Q366774,Adrenalectomy,Surgical removal of the adrenal gland
+103,allotransplantation,Q1773075,Allotransplantation,Transplantation between individuals of the same species
+104,aorticvalverepair,Q21558880,Aortic Valve Repair,No description defined
+105,arteriectomy,Q2866007,Arteriectomy,No description defined
+106,autohemotherapy,Q1303078,Autohemotherapy,"Therapy using a patient's own blood, with various forms from quackery to low-evidence medicine"
+107,autoplasty,Q13432230,Autoplasty,No description defined
+108,autotransfusion,Q1759505,Autotransfusion,No description defined
+109,autotransplantation,Q379071,Autotransplantation,Surgical moving of tissue from one part of a body to another part of the same body
+110,auxiliarylivertransplantation,Q3116164,Auxiliary Liver Transplantation,Medical procedure
+111,bariatricsurgery,Q357503,Bariatric Surgery,Invasive procedures aimed to force the morbidly obese person to a limited food intake.
+112,bidirectionalcardiacshunt,Q30066009,Bidirectional Cardiac Shunt,No description defined
+113,bilateralhandtransplantation,Q33122457,Bilateral Hand Transplantation,No description defined
+114,biliopancreaticdiversion,Q15140851,Biliopancreatic Diversion,No description defined
+115,breastremoval,Q47539483,Breast Removal,"Removal of a breast, usually as an act of aggression (for voluntary breast removal, see mastectomy)"
+116,breastconservingsurgery,Q4959754,Breast-Conserving Surgery,No description defined
+117,callotasis,Q2934305,Callotasis,No description defined
+118,canalplasty,Q17622526,Canalplasty,No description defined
+119,cardiacshunt,Q5038334,Cardiac Shunt,Pattern of blood flow in the heart that deviates from the normal circuit of the circulatory system
+120,carpaltunnelsurgery,Q5045596,Carpal Tunnel Surgery,Surgery to relieve carpal tunnel syndrome
+121,cataractsurgery,Q1818260,Cataract Surgery,Ocular surgery performed to remove cataracts
+122,cavumrotation,Q25380974,Cavum Rotation,No description defined
+123,cesareansectionorlscs,Q228036,Cesarean Section Or Lscs,Surgical procedure in which a baby is delivered through a mother's abdomen
+124,chinaugmentation,Q3122980,Chin Augmentation,No description defined
+125,clitoridectomy,Q1707435,Clitoridectomy,Surgical removal of the clitoris
+126,colectomy,Q1779148,Colectomy,No description defined
+127,colovaginoplasty,Q2385499,Colovaginoplasty,No description defined
+128,congenitalcardiovascularshunt,Q55790059,Congenital Cardiovascular Shunt,Human disease
+129,cornealtransplantation,Q579361,Corneal Transplantation,Surgical procedure
+130,costectomy,Q2998440,Costectomy,Excision of a rib
+131,costotomy,Q2998462,Costotomy,No description defined
+132,couching,Q2333205,Couching,Early form of cataract surgery
+133,cranioplasty,Q5182148,Cranioplasty,No description defined
+134,cystotomy,Q69968689,Cystotomy,Incision of the urinary bladder
+135,decerebration,Q3043006,Decerebration,Elimination of cerebral brain function
+136,decortication,Q1183720,Decortication,"Medical procedure involving the surgical removal of the surface layer, membrane, or fibrous cover of an organ"
+137,dentalextraction,Q849893,Dental Extraction,Operation (usually by a dentist or oral surgeon) to remove a tooth
+138,devitalization,Q27077319,Devitalization,No description defined
+139,digestivesystemsurgery,Q5275614,Digestive System Surgery,No description defined
+140,dorsalslit,Q30314013,Dorsal Slit,Single incision along the upper length of the foreskin
+141,electivecesareansection,Q29997163,Elective Cesarean Section,Cesarean section that is scheduled
+142,electivecesareansection,Q29997163,Elective Cesarean Section,Cesarean section that is scheduled
+143,embryotomy,Q1409163,Embryotomy,Destructive operation for delivery
+144,emergencycesareansection,Q29997105,Emergency Cesarean Section,Cesarean section that is not scheduled
+145,emergencycesareansection,Q29997105,Emergency Cesarean Section,Cesarean section that is not scheduled
+146,endoscopicfetalsurgery,Q18467900,Endoscopic Fetal Surgery,No description defined
+147,endovenouslaserablation,Q4252983,Endovenous Laser Ablation,No description defined
+148,extracapsularcataractextraction,Q56071872,Extracapsular Cataract Extraction,Type of cataract surgery
+149,facialfeminizationsurgery,Q1969172,Facial Feminization Surgery,Plastic surgery changing one's face to feminine morphology
+150,fasciotomy,Q1397866,Fasciotomy,"Surgical procedure where fascia is cut, often to treat loss of circulation in tissue or muscle"
+151,femaletomalesexreassignmentsurgery,Q7458532,Female-To-Male Sex Reassignment Surgery,No description defined
+152,gastroplasty,Q21116710,Gastroplasty,No description defined
+153,gastroplasty,Q21116710,Gastroplasty,No description defined
+154,gingivectomy,Q2297647,Gingivectomy,Surgical excision of the gingiva
+155,glaucomavalve,Q3117462,Glaucoma Valve,No description defined
+156,hairtransplantation,Q685286,Hair Transplantation,No description defined
+157,handtransplantation,Q552264,Hand Transplantation,Surgical procedure to transplant a hand from one human to another
+158,headtransplant,Q2776622,Head Transplant,Surgical operation
+159,hearttransplant,Q643396,Heart Transplant,Surgical transplant procedure performed on patients with end-stage heart failure or severe coronary artery disease when other medical or surgical treatments have failed
+160,heartvalverepair,Q5692514,Heart Valve Repair,No description defined
+161,hematopoieticstemcelltransplantation,Q1128050,Hematopoietic Stem Cell Transplantation,Medical procedure to replace bone marrow stem cells
+162,hepatectomy,Q1514021,Hepatectomy,Surgical excision of all or part of the liver
+163,hepatoportoenterostomy,Q1439271,Hepatoportoenterostomy,Surgical procedure that involves opening a long-term hole in part of the liver
+164,incisionsuturetechnique,Q25380785,Incision-Suture Technique,No description defined
+165,intracapsularextraction,Q12021754,Intracapsular Extraction,No description defined
+166,intragastricballoon,Q2881346,Intragastric Balloon,Medical device
+167,isogeneictransplantation,Q68417037,Isogeneic Transplantation,Transplantation between genetically identical individuals
+168,jejunoilealbypass,Q3647868,Jejunoileal Bypass,Surgical weight-loss procedure
+169,kidneytransplantation,Q740909,Kidney Transplantation,Surgical operation
+170,laparoscopiccholecystectomy,Q66088221,Laparoscopic Cholecystectomy,Excision of the gallbladder through an abdominal incision using a laparoscope
+171,laparoscopicsurgery,Q10999879,Laparoscopic Surgery,No description defined
+172,laparotomy,Q1130374,Laparotomy,Surgery
+173,lasercoagulation,Q20883885,Laser Coagulation,"Use of green light-producing lasers to stop bleeding. the green light is selectively absorbed by hemoglobin, thus triggering blood coagulation"
+174,laserphotocoagulation,Q490257,Laser Photocoagulation,Eye operation
+175,lastresortsurgery,Q4335330,Last Resort Surgery,No description defined
+176,lefttorightcardiacshunt,Q30066006,Left-To-Right Cardiac Shunt,No description defined
+177,lithotomy,Q21714486,Lithotomy,"Surgical method for removal of calculi, stones formed inside certain organs"
+178,livertransplantation,Q1368191,Liver Transplantation,Medical procedure
+179,lungtransplant,Q1637912,Lung Transplant,No description defined
+180,lymphadenectomy,Q1809305,Lymphadenectomy,Surgical removal of lymph nodes (often part of breast cancer treatment)
+181,lymphadenectomy,Q1809305,Lymphadenectomy,Surgical removal of lymph nodes (often part of breast cancer treatment)
+182,maletofemalesexreassignmentsurgery,Q7458534,Male-To-Female Sex Reassignment Surgery,Sex reassignment surgery
+183,metoidioplasty,Q3291045,Metoidioplasty,"Female-to-male sex reassignment surgery, creating a penis-analogue from the clitoris"
+184,mitralvalverepair,Q6882374,Mitral Valve Repair,Cardiac surgery procedure
+185,monkeyglandtransplantation,Q26878302,Monkey Gland Transplantation,"Technique by serge voronoff, grafting monkey testicle tissue on to the testicles of men"
+186,myocutaneousflap,Q58882902,Myocutaneous Flap,No description defined
+187,naturalorificeendoscopicsurgery,Q71713580,Natural Orifice Endoscopic Surgery,"Surgical procedures performed through a natural opening in the body, and along the natural body cavities"
+188,neckdissection,Q355817,Neck Dissection,Dissection in the neck to remove diseased tissues and to leave a margin of normal tissue
+189,nephrectomy,Q1357376,Nephrectomy,Surgical removal of a kidney
+190,nucleotomia,Q2004572,Nucleotomia,No description defined
+191,omphalotomy,Q55780249,Omphalotomy,Medical procedure
+192,operation,Q600236,Operation,"Instrumental medical procedure on or in the body of a patient for the purpose of the therapy, the diagnosis rarely"
+193,operativehysteroscopy,Q2963983,Operative Hysteroscopy,No description defined
+194,organtransplantation,Q69253852,Organ Transplantation,Moving of an organ from one body or body region to another
+195,otopexy,Q2037180,Otopexy,Surgical procedure
+196,pallidectomy,Q3361526,Pallidectomy,Electrothermal destruction of the globus pallidus
+197,pallidotomy,Q3892641,Pallidotomy,No description defined
+198,pancreastransplantation,Q518159,Pancreas Transplantation,Operation
+199,parathyroidectomy,Q7136153,Parathyroidectomy,Surgical removal of one or more of the parathyroid glands
+200,partialgastrectomy,Q13798153,Partial Gastrectomy,Removal of a part of the stomach
+201,pedicledflap,Q2281790,Pedicled Flap,No description defined
+202,penisremoval,Q12969054,Penis Removal,"Removal of the penis, usually as an act of aggression (for voluntary penis removal, see penectomy)"
+203,penistransplantation,Q4357664,Penis Transplantation,Surgical transplant procedure in which a penis is transplanted to a patient
+204,phalloplasty,Q1889215,Phalloplasty,Operation to construct or reconstruct a penis
+205,posteriorlumbarinterbodyfusion,Q1719554,Posterior Lumbar Interbody Fusion,No description defined
+206,resection,Q1664628,Resection,Removal by surgery of all or part of an organ or other body structure
+207,resection,Q1664628,Resection,Removal by surgery of all or part of an organ or other body structure
+208,righttoleftcardiacshunt,Q7333459,Right-To-Left Cardiac Shunt,No description defined
+209,robotassistedsurgery,Q942348,Robot-Assisted Surgery,Surgical procedure aided by robotic systems
+210,salpingostomy,Q3470202,Salpingostomy,No description defined
+211,septoplasty,Q1973252,Septoplasty,No description defined
+212,sexreassignmentsurgery,Q1053501,Sex Reassignment Surgery,Surgery altering sexual characteristics
+213,shamsurgery,Q7487374,Sham Surgery,No description defined
+214,shunt,Q1890115,Shunt,"Hole or small passage which moves, or allows movement of, fluid from one part of the body to another"
+215,spinalfusion,Q770609,Spinal Fusion,Immobilization or ankylosis of two or more vertebrae by fusion of the vertebral bodies
+216,splitbrainprocedure,Q551840,Split-Brain Procedure,Separation of the two hemispheres of the brain
+217,surgicaldecompression,Q19596746,Surgical Decompression,Surgical operation for the relief of pressure in a body compartment or on a body part
+218,surgicalendoscopy,Q3054028,Surgical Endoscopy,No description defined
+219,surgicalflap,Q3216616,Surgical Flap,Technique in plastic and reconstructive surgery
+220,surgicalflap,Q3216616,Surgical Flap,Technique in plastic and reconstructive surgery
+221,tendonectomy,Q4454641,Tendonectomy,No description defined
+222,toothreplantation,Q2140225,Tooth Replantation,No description defined
+223,traditionalotoplasty,Q25380950,Traditional Otoplasty,No description defined
+224,transplantation,Q105196,Transplantation,Moving of an organ or tissue from one body or body region to another
+225,transurethralresection,Q69969800,Transurethral Resection,Resection through the urethra
+226,trepanning,Q472953,Trepanning,Surgical intervention; drilling a hole in the skull
+227,turbinectomy,Q552065,Turbinectomy,Surgical procedure
+228,urethrotomy,Q7900440,Urethrotomy,Urethrotomy
+229,uterustransplantation,Q5975885,Uterus Transplantation,Surgical procedure
+230,vaginoplasty,Q1537534,Vaginoplasty,Any surgical procedure that results in the construction or reconstruction of the vagina
+231,valvuloplasty,Q3167917,Valvuloplasty,No description defined
+232,valvulotomy,Q7912857,Valvulotomy,No description defined
+233,vasectomyreversal,Q7916478,Vasectomy Reversal,Medical procedure
+234,vitrectomy,Q924295,Vitrectomy,Surgery to remove some or all of the vitreous humor from the eye
+235,xenotransplantation,Q55505,Xenotransplantation,Transplantation of cells or tissue across species
