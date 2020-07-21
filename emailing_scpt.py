@@ -1,8 +1,8 @@
 import os, smtplib
 from email.message import EmailMessage
 
-EMAIL = os.environ.get('EMAIL_ADD')
-PASSWORD = os.environ.get('EMAIL_PASS')
+EMAIL = os.environ.get('')
+PASSWORD = os.environ.get('')
 '''lines = open('.../cc@home/contact_infoII.txt', 'r+')
 for line in lines:
     name = line.split(',')[0]
